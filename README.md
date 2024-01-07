@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Labibur Rahman
 #### MERN Stack Developer
-![MERN Stack Developer](https://media.licdn.com/dms/image/D5616AQGBhqm5faPkZg/profile-displaybackgroundimage-shrink_350_1400/0/1695992294045?e=1710374400&v=beta&t=MqgXrpRkAvMkfK5qXxsUhWgXo8WP569BMmBlGgpmBFc)
+![MERN Stack Developer](https://i.ibb.co/wgRPS6Y/Labibur-Rahman.png)
 
 Dependable web developer with a strong work ethic and excellent customer service record. Deeply knowledgeable in a wide variety of computer languages, including HTML5, CSS3, Tailwindcss, Bootstrap5, JavaScript, React js, Node js, Next js, Express, Mongo Db, and GitHub and understands principles and techniques of initial website construction and ongoing maintenance. Strong communicator and is flexible with scheduling.
 
